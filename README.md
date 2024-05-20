@@ -5,15 +5,6 @@ This repository contains a comprehensive computer vision project divided into th
 2. Image Retrieval
 3. Image Classification and Transfer Learning
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Usage](#usage)
-  - [Image Techniques and Filtering](#image-techniques-and-filtering)
-  - [Image Retrieval](#image-retrieval)
-  - [Image Classification and Transfer Learning](#image-classification-and-transfer-learning)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
